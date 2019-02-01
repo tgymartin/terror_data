@@ -1,0 +1,5 @@
+*.xlsx
+/1970to2017GTDGeodatabase/*
+*.pdf
+*.csv
+*.zip
